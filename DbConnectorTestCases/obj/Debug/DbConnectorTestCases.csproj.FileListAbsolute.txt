@@ -1,0 +1,16 @@
+D:\personal\01 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnectorTestCases.exe.config
+D:\personal\01 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnectorTestCases.exe
+D:\personal\01 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnectorTestCases.pdb
+D:\personal\01 SfkLibrary\DbConnector\DbConnectorTestCases\obj\Debug\DbConnectorTestCases.csprojResolveAssemblyReference.cache
+D:\personal\01 SfkLibrary\DbConnector\DbConnectorTestCases\obj\Debug\DbConnectorTestCases.exe
+D:\personal\01 SfkLibrary\DbConnector\DbConnectorTestCases\obj\Debug\DbConnectorTestCases.pdb
+D:\personal\01 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnect.dll
+D:\personal\01 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnect.pdb
+D:\00 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnectorTestCases.exe.config
+D:\00 SfkLibrary\DbConnector\DbConnectorTestCases\obj\Debug\DbConnectorTestCases.exe
+D:\00 SfkLibrary\DbConnector\DbConnectorTestCases\obj\Debug\DbConnectorTestCases.pdb
+D:\00 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnectorTestCases.exe
+D:\00 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnectorTestCases.pdb
+D:\00 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnect.dll
+D:\00 SfkLibrary\DbConnector\DbConnectorTestCases\bin\Debug\DbConnect.pdb
+D:\00 SfkLibrary\DbConnector\DbConnectorTestCases\obj\Debug\DbConnectorTestCases.csprojResolveAssemblyReference.cache

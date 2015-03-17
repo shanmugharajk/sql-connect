@@ -1,0 +1,12 @@
+D:\study\_Project\DbConnector\bin\Debug\DbConnector.exe.config
+D:\study\_Project\DbConnector\bin\Debug\DbConnector.exe
+D:\study\_Project\DbConnector\bin\Debug\DbConnector.pdb
+D:\study\_Project\DbConnector\obj\Debug\DbConnector.exe
+D:\study\_Project\DbConnector\obj\Debug\DbConnector.pdb
+D:\personal\01 SfkLibrary\DbConnector\bin\Debug\DbConnector.exe.config
+D:\personal\01 SfkLibrary\DbConnector\obj\Debug\DbConnector.exe
+D:\personal\01 SfkLibrary\DbConnector\obj\Debug\DbConnector.pdb
+D:\personal\01 SfkLibrary\DbConnector\bin\Debug\DbConnector.exe
+D:\personal\01 SfkLibrary\DbConnector\bin\Debug\DbConnector.pdb
+D:\personal\01 SfkLibrary\DbConnector\obj\Debug\DbConnector.csprojResolveAssemblyReference.cache
+D:\personal\01 SfkLibrary\DbConnector\bin\Debug\MySql.Data.dll
